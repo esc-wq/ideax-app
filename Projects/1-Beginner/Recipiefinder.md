@@ -21,7 +21,7 @@ The Recipe Finder app is designed to help users discover new recipes based on th
 
 ## Bonus Features
 
-- [ ] User can filter search results by dietary preferences (e.g., vegan, low-carb, etc.) using toggle buttons or checkboxes.
+- [ ] User can filter search results by dietary preferences (e.g., vegan, low-carb, protein-rich etc.) using toggle buttons or checkboxes.
 - [ ] User can view a "What's in Your Pantry?" feature that allows them to track pantry items and receive alerts for items that are low in stock.
 
 ## Useful Links and Resources
